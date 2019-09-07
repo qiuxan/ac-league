@@ -1,0 +1,378 @@
+.so-widget-sow-image-default-813df796d9b1 .sow-image-container .so-widget-image {
+    display: block;
+    max-width: 100%;
+    width: inherit;
+    height: auto;
+}
+
+@media only screen and (max-width: 780px) {
+    #panel-8-6-0-0 .panel-widget-style {
+        margin: 0 !important;
+    }
+    #panel-8-6-1-0 .panel-widget-style {
+        margin: 0 !important;
+    }
+    #panel-8-1-1-0 .panel-widget-style {
+        margin-top: 0 !important;
+    }
+    .roll-client .client-item img {
+        max-width: 100%;
+    }
+    .panel-grid-cell {
+        padding-left:15px !important;
+        padding-right:15px !important;
+        margin-bottom: 15px !important;
+    }
+    h1 { font-size: 32px;}
+    h2 { font-size: 28px;}
+    h3 { font-size: 22px;}
+    h4 { font-size: 18px;}
+    h5 { font-size: 16px;}
+    h6 { font-size: 14px;}
+}
+
+
+.post-type-archive-employees .team-item {
+    margin-bottom: 30px;
+}
+
+.page-id-343 .roll-icon-list .icon i {
+    color: #1c1c1c;
+}
+.page-id-343 .roll-icon-list .icon {
+    border-color: #1c1c1c;
+}
+.cf-full input {
+    width:100%;
+}
+.page-id-356 .roll-project {
+    padding-bottom: 0;
+}
+
+.site-header.float-header
+{
+    padding: 6px;
+}
+
+.league_logo img {
+    width: 150px;
+}
+
+.league_logo {
+    text-align: center;
+}
+
+#mainnav .sub-menu li a {
+    background: transparent;
+    border: none;
+}
+
+.mainnav li ul {
+    margin: 5px 0 0;
+    padding: 10px;
+    background: rgba(0, 0, 0,0.9);
+    -moz-transition-delay: 0.2s;
+    -webkit-transition-delay: 0.2s;
+    transition-delay: 0.2s;
+}
+
+.mainnav li ul {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 9998;
+}
+
+.mainnav > li > ul:before {
+    visibility: hidden;
+    content: ' ';
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 20px;
+    margin: -11px 0 0;
+    z-index: 9999;
+}
+
+.mainnav li ul li {
+    width: auto;
+    display: block;
+    float: none;
+    position: relative;
+    margin: 0;
+    list-style: none;
+}
+
+.mainnav li ul li a {
+    text-transform: none;
+    font-size: 0.9em;
+}
+
+.mainnav li ul li a {
+    color: #555;
+    line-height: 1.5;
+    height: auto;
+    padding: 10px;
+    width: 220px;
+}
+
+.mainnav li a {
+    padding: 10px;
+    font-size: 1.1em;
+    color: #99a;
+}
+
+.mainnav li a {
+    display: block;
+    margin: 0;
+    padding: 10px;
+    color: #777;
+    border-radius: 2px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.mainnav-mobi li ul {
+    display: block;
+    margin: 0 0 0 25px;
+    padding: 0;
+}
+
+.mainnav-mobi li ul li {
+    width: auto;
+    display: block;
+    float: none;
+}
+
+.mainnav-mobi li ul li a {
+    width: auto;
+    line-height: 1.5;
+    height: auto;
+    padding: 10px;
+}
+
+.mainnav-mobi li a {
+    display: block;
+    margin: 0;
+    padding: 10px;
+    border-radius: 2px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#mainnav-mobi ul.sub-menu {
+    background-color: transparent;
+}
+
+#mainnav ul li ul:after {
+    height: 0;
+    background-color: transparent;
+}
+
+#mainnav-mobi ul.sub-menu > li > a {
+    padding: 10px 0 10px 70px;
+}
+
+#mainnav .sub-menu li:hover > a {
+    background-color: transparent;
+    color: #d65050;
+}
+
+.verification {
+    text-align: left;
+}
+
+.page-title {
+    padding-top: 0px;
+}
+
+.search-code {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+input.search-field {
+    min-width: 200px;
+    padding: 4px 5px;
+    font-size: 16px;
+}
+
+.red {
+    color: #d65050;;
+}
+
+.error {
+    background-color: #FFBABA;
+}
+
+.success {
+    background-color: #dff0d8;
+}
+
+.warning {
+    background-color: #FFCC00;
+}
+
+.message {
+    padding: 10px 20px;
+}
+
+.product-feature {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    clear: both;
+    display: table;
+}
+
+.attribute {
+    color: #d65050;
+    width: 100px;
+    text-align: left;
+    padding-right: 10px;
+    display: table-cell;
+    vertical-align: top;
+
+}
+
+.value {
+    padding-top: 2px;
+    font-size: 14px;
+    display: table-cell;
+}
+
+.product-feature-full {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    clear: both;
+    display: inline-block;
+}
+
+.attribute-full {
+    color: #d65050;
+    width: 100px;
+    text-align: left;
+    padding-right: 10px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.value-full {
+    padding-top: 2px;
+    font-size: 14px;
+    display: inline-block;
+}
+
+input.authentic-field {
+    width: 150px;
+    padding: 4px 5px;
+    font-size: 16px;
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    padding: 6px 25px;
+}
+
+select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"]
+{
+    height: auto;
+}
+
+.team-content .title {
+    color: #d65050;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 0px 20px;
+}
+
+.team-inner .feature-image {
+    min-height: 240px;
+}
+
+.col-md-10, .col-md-2 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.recent-thumbnail {
+    float: left;
+    width: 50px;
+    height: 50px;
+    display:inline-block;
+    vertical-align: top;
+    background-size:cover;
+    background-position:50% 50%;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.recent-thumbnail img{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    /* OLD IE */
+    zoom: 1;
+    filter: alpha(opacity=0);
+}
+
+@media only screen and (min-width: 1200px) {
+    .recent-title {
+        float: left;
+        max-width: 200px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .recent-title {
+        float: left;
+        max-width: 150px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .recent-title {
+        float: left;
+        max-width: 80%;
+    }
+}
+
+.authentic-input {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.contactForm {
+    height: 523px;
+}
+
+.spacer {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.remove-videodetector {
+    display: none !important;
+}
+
+.page-wrap .content-wrapper {
+    background: none;
+}
+
+.product-company {
+    font-size: 22px;
+}
+
+.product-name {
+    font-size: 22px;
+}
+
+.surveyForm {
+    padding: 15px;
+    background-color: #fff;
+}
